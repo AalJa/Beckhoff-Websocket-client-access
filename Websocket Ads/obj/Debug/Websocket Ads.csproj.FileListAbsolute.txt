@@ -22,3 +22,14 @@ C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\Twi
 C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Debug\Websocket Ads.csproj.CopyComplete
 C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\Newtonsoft.Json.dll
 C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\bin\Debug\Websocket Ads.exe.config
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\bin\Debug\Websocket Ads.exe
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\bin\Debug\Websocket Ads.pdb
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\bin\Debug\websocket-sharp.dll
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\obj\Debug\Websocket Ads.csproj.AssemblyReference.cache
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\obj\Debug\Websocket Ads.csproj.CoreCompileInputs.cache
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\obj\Debug\Websocket Ads.csproj.CopyComplete
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\obj\Debug\Websocket Ads.exe
+C:\Users\aalto\Desktop\Project\Beckhoff-Websocket-client-access\Beckhoff-Websocket-client-access\Websocket Ads\obj\Debug\Websocket Ads.pdb
