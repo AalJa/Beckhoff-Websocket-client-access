@@ -1,4 +1,4 @@
-!!!CONFIGURATING Websocketserver
+!!!CONFIGURATING Websocketserver info
 
 SocketData.txt
 Example of local connection:             "ws://Localhost:7890"  
