@@ -1,0 +1,24 @@
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Release\Websocket Ads.exe.config
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Release\Websocket Ads.exe
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Release\Websocket Ads.pdb
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Release\websocket-sharp.dll
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Release\Websocket Ads.csproj.AssemblyReference.cache
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Release\Websocket Ads.csproj.CoreCompileInputs.cache
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Release\Websocket Ads.csproj.CopyComplete
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Release\Websocket Ads.exe
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Release\Websocket Ads.pdb
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Release\TwinCAT.Ads.dll
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Release\TwinCAT.Ads.xml
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Release\Websocket Ads.exe.config
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Release\Websocket Ads.exe
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Release\Websocket Ads.pdb
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Release\Newtonsoft.Json.dll
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Release\TwinCAT.Ads.dll
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Release\websocket-sharp.dll
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Release\Newtonsoft.Json.xml
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Release\TwinCAT.Ads.xml
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Release\Websocket Ads.csproj.AssemblyReference.cache
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Release\Websocket Ads.csproj.CoreCompileInputs.cache
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Release\Websocket Ads.csproj.CopyComplete
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Release\Websocket Ads.exe
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Release\Websocket Ads.pdb
