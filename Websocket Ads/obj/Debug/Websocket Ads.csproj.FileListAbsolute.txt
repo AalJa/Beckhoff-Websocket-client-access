@@ -1,0 +1,24 @@
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Debug\Websocket Ads.csproj.AssemblyReference.cache
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Debug\Websocket Ads.csproj.CoreCompileInputs.cache
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Debug\Websocket Ads.exe.config
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Debug\Websocket Ads.exe
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Debug\Websocket Ads.pdb
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Debug\websocket-sharp.dll
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Debug\Websocket Ads.csproj.CopyComplete
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Debug\Websocket Ads.exe
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\obj\Debug\Websocket Ads.pdb
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Debug\TwinCAT.Ads.dll
+C:\Users\aalto\source\repos\Websocket Ads\Websocket Ads\bin\Debug\TwinCAT.Ads.xml
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Debug\Websocket Ads.csproj.AssemblyReference.cache
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Debug\Websocket Ads.csproj.CoreCompileInputs.cache
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Debug\Websocket Ads.exe
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Debug\Websocket Ads.pdb
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\Websocket Ads.exe.config
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\Websocket Ads.exe
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\Websocket Ads.pdb
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\TwinCAT.Ads.dll
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\websocket-sharp.dll
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\TwinCAT.Ads.xml
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\obj\Debug\Websocket Ads.csproj.CopyComplete
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aalto\Desktop\Project\Beckhoff-adsWebSocket\Websocket Ads\bin\Debug\Newtonsoft.Json.xml
