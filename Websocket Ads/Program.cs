@@ -36,20 +36,24 @@ namespace Websocket_Ads
             }
             else
             { 
-                Send("Failed" + e.Data + " Brinter  " + DateTime.Now); 
+                Send("Failed" + e.Data +  DateTime.Now); 
             }
         }
         public string Format_Data(string data)
         {
             string formattedData = "";
-            if (!data.Contains("Value"))
+            if (!data.Contains("Value")) // Read request
             {
                 string Aux = data.Replace("}", string.Empty);
-                formattedData = Aux + "  \"Value\"" + ": " + 1 + " ," + "\n" + " }";
-            } 
+                if (dataIn.sType.Equals("bool")) { formattedData = Aux + "  \"Value\"" + ": " + " \"" + dataIn.bResult + "\"" + "," + "\n" + " }"; }
+                if (dataIn.sType.Equals("int")) { formattedData = Aux + "  \"Value\"" + ": " + dataIn.iResult + " ," + "\n" + " }"; }
+                if (dataIn.sType.Equals("float")) { formattedData = Aux + "  \"Value\"" + ": " + dataIn.fResult + " ," + "\n" + " }"; }
+                if (dataIn.sType.Equals("string")) { formattedData = Aux + "  \"Value\"" + ": " + " \"" +dataIn.sResult + "\"" + "," + "\n" + " }"; }
+                //formattedData = Aux + "  \"Value\"" + ": " + 1 + " ," + "\n" + " }";
+            }             
             else
             {
-                formattedData = data;
+                formattedData = data; // Write request
             }
 
             return formattedData;
@@ -67,7 +71,6 @@ namespace Websocket_Ads
             string Path = System.IO.Path.GetDirectoryName(strExeFilePath);
             string SocketData = "";
 
-
             try
             {
                 SocketData = File.ReadAllText(Path + @"\SocketData.txt");
@@ -75,7 +78,7 @@ namespace Websocket_Ads
                 // "ws://Localhost:7890"  //Toimii lokaalisti       // "ws://192.168.10.102:7890  // Toimii globaalisti
 
                 //Endpoints
-                wssv.AddWebSocketService<Echo>("/BrinterEcho");
+                wssv.AddWebSocketService<Echo>("/AdsAccess");
                 wssv.Start();
                 Console.WriteLine("Client Connected to Websocketserver:  " + SocketData + "  " + DateTime.Now );
             }

@@ -17,6 +17,13 @@ namespace Websocket_Ads
 {
     internal class DataIn
     {
+        public bool bResult;
+        public float fResult;
+        public int iResult;
+        public string sResult;
+        public string sType;
+     
+
         Ads ads = new Ads();
         public string ParseIncomingData(string sDataIn)  // Parsing without Json structure
         {
@@ -66,17 +73,17 @@ namespace Websocket_Ads
                     switch (result.VariableType)
                     {
                         case "bool":
-                            ads.Read_bool_Data_From_Plc(result.VariableName);
+                            bResult = ads.Read_bool_Data_From_Plc(result.VariableName); sType = "bool";
                             break;
 
                         case "int":
-                            ads.Read_int_Data_From_Plc(result.VariableName);
+                            iResult = ads.Read_int_Data_From_Plc(result.VariableName);  sType = "int";
                             break;
                         case "float":
-                            ads.Read_float_Data_From_Plc(result.VariableName);
+                           fResult = ads.Read_float_Data_From_Plc(result.VariableName); sType = "float";
                             break;
                         case "string":
-                            ads.Read_string_Data_From_Plc(result.VariableName);
+                            sResult = ads.Read_string_Data_From_Plc(result.VariableName); sType = "string";
                             break;
                     }
                 }
